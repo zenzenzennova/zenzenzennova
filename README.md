@@ -11,14 +11,14 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/mhmdibnurfc"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:muhamadibnurafic@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/mhmdibnurfc"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://github.com/zenzenzennova"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 
 </div>
 
 ---
 
-### 🛡️ About Me
+###  About Me
 
 ```yaml
 specialization : [ "Digital Forensics", "Network Security", "Systems Administration" ]
@@ -30,11 +30,11 @@ environment    : "CachyOS (Arch Linux)"
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+###  Tech Stack & Arsenal
 
 <div align="center">
 
-#### 🔍 Security, Forensics & Analysis
+####  Security, Forensics & Analysis
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Volatility](https://img.shields.io/badge/Volatility-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=eclipseide&logoColor=red)
@@ -43,14 +43,14 @@ environment    : "CachyOS (Arch Linux)"
 ![Nmap](https://img.shields.io/badge/Nmap-002B49?style=for-the-badge&logo=linuxfoundation&logoColor=white)
 ![CyberChef](https://img.shields.io/badge/CyberChef-A40000?style=for-the-badge&logo=gnubash&logoColor=white)
 
-#### 💻 Programming & Scripting
+####  Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 🌐 OS, Infrastructure & Virtualization
+####  OS, Infrastructure & Virtualization
 ![CachyOS](https://img.shields.io/badge/CachyOS-00C49F?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -64,44 +64,19 @@ environment    : "CachyOS (Arch Linux)"
 
 ---
 
-### 🚀 Technical Impact & Experience
-
-```
-┌──[ core-team-member @ cyber-community-universitas-gunadarma-ccug ]
-├── Focus   : Digital Forensics, Steganography, File Carving & CTF Operations.
-├── Stack   : Python, Volatility, Wireshark, ExifTool, Binwalk, Hex Editors.
-└── Impact  : Conducted deep forensic investigations on metadata, disk/memory artifacts, and hidden payloads; collaborated across technical operations.
-```
-
-```
-┌──[ lab-assistant @ lepkom-gunadarma-vm-lab ]
-├── Problem : System stability and technical friction in distributed virtualization lab environments for 100+ students.
-├── Stack   : VMware, VirtualBox, Linux Administration, Troubleshooting.
-└── Impact  : Diagnosed VM kernel issues, guided lab procedures, and streamlined hands-on virtualization sessions.
-```
-
-```
-┌──[ it-infrastructure-support @ diskominfo-depok ]
-├── Problem : High availability, router health, and network telemetry across municipal public facilities.
-├── Stack   : Cisco IOS, Router OS, Network Monitoring, Wireshark, Linux Systems.
-└── Impact  : Monitored & diagnosed city-wide router infrastructure, performed telemetry checks, and maintained core server nodes.
-```
-
----
-
-### 📊 GitHub Analytics
+###  GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhmdibnurfc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=00f2fe&text_color=c9d1d9" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdibnurfc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=zenzenzennova&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=00f2fe&text_color=c9d1d9" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zenzenzennova&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9" height="150" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmdibnurfc&theme=tokyonight&hide_border=true&background=0d1117&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" height="150" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=zenzenzennova&theme=tokyonight&hide_border=true&background=0d1117&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" height="150" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Engineered with precision by <a href="https://github.com/mhmdibnurfc">Muhamad Ibnu Rafic</a> • Open to security collaborations & discussions</sub>
+  <sub>Engineered with precision by <a href="https://github.com/zenzenzennova">Muhamad Ibnu Rafic</a> • Open to security collaborations & discussions</sub>
 </div>
