@@ -1,17 +1,16 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d1117,50:161b22,100:00f2fe&height=220&section=header&text=Muhamad%20Ibnu%20Rafic&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20%7C%20Digital%20Forensics%20%7C%20Network%20Infrastructure&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d1117,50:1a102f,100:a855f7&height=220&section=header&text=Muhamad%20Ibnu%20Rafic&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20%7C%20Digital%20Forensics%20%7C%20Network%20Infrastructure&descFontSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Core+Team+Member+%40+CCUG;Digital+Forensics+%26+CTF+Competitor;Network+Engineering+%26+Infrastructure;CachyOS+%2F+Arch+Linux+Power+User" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Core+Team+Member+%40+CCUG;Digital+Forensics+%26+CTF+Competitor;Network+Engineering+%26+Infrastructure;CachyOS+%2F+Arch+Linux+Power+User" alt="Typing SVG" />
   </a>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/mhmdibnurfc"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:muhamadibnurafic@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/zenzenzennova"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 
 </div>
@@ -72,7 +71,7 @@ environment    : "CachyOS (Arch Linux)"
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=zenzenzennova&theme=tokyonight&hide_border=true&background=0d1117&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" height="150" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=zenzenzennova&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" alt="GitHub Streak" />
 </div>
 
 ---
