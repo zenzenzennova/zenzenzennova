@@ -70,10 +70,6 @@ environment    : "CachyOS (Arch Linux)"
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zenzenzennova&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9" height="150" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=zenzenzennova&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" alt="GitHub Streak" />
-</div>
-
 ---
 
 <div align="center">
